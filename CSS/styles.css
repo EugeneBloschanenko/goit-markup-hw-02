@@ -91,6 +91,10 @@ body {
 }
 
 /* Studio Main */
+.hero-section {
+  background-color: #2f303a;
+}
+
 .hero-title {
   color: #ffffff;
   font-family: var(--main-text-font);
@@ -136,6 +140,10 @@ body {
 }
 
 .about-list {
+}
+
+.team {
+  background-color: #f5f4fa;
 }
 
 .team .title {
